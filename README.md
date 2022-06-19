@@ -1,6 +1,6 @@
 # Percolation
 
-Percolation is a little pet project assignment thingy if you want to call it that. 
+Percolation is a little pet project assignment.
 
 Princeston has a course on Coursera dubbed 'Algorithms part 1,' by Sedgewick and Wayne. [Link to assignment here.](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
 What lies in this repository is the completed first assignment, percolation.java and percolationstats.java. 
